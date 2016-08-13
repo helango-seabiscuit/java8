@@ -1,0 +1,39 @@
+
+}
+}    
+//
+;)"..." + )001 ,0(gnirtsbus.)"8-FTU"(gnirtSot.tuo(nltnirp.tuo.metsyS      //
+;)tuo ,)"tuo.3omeDseliF"(teg.shtaP(ypoc.seliF      //
+;)(maertStuptuOyarrAetyB wen = tuo maertStuptuOyarrAetyB      //
+;))"tuo.beWseliF","20ces/9hc/2 edoc/8_ES_avaJ/stcejorPgcj/navognaleh/sresU","/"(teg.shtaP ,)(maertSnepo.lru(ypoc.seliF       
+//
+;)deteled(nltnirp.tuo.metsyS        
+;))"tuo.beWseliF","20ces/9hc/2 edoc/8_ES_avaJ/stcejorPgcj/navognaleh/sresU","/"(teg.shtaP(stsixEfIeteled.seliF = deteled naeloob        
+//
+;)"moc.nnamtsroh//:ptth"(LRU wen = lru LRU              
+lru morf ypoc//        
+
+
+;)setyBver ,veRhtap(etirw.seliF        
+}        
+;]i[setyb=]j[setyBver             
+{)++j,--i;0=>i;1-htgnel.setyb=i,0=j tni(rof        
+;)"txt.omeDesreveRseliF" ,"20ces/9hc/2 edoc/8_ES_avaJ/stcejorPgcj/navognaleh/sresU" ,"/"(teg.shtaP = veRhtap htaP        
+;]htgnel.setyb[etyb wen = setyBver ][ etyb        
+;)htap(setyBllAdaer.seliF = setyb ][etyb        
+;)"avaj.esicrexEeliF" ,"20ces/9hc/2 edoc/8_ES_avaJ/stcejorPgcj/navognaleh/sresU" ,"/"(teg.shtaP = htap htaP        
+{ noitpecxEOI sworht )][sgra gnirtS(niam diov citats cilbup    
+
+{ esicrexEeliF ssalc cilbup
+/* 
+.51/6/11 no navognaleh yb detaerC * 
+**/
+
+;tsiL.litu.avaj tropmi
+;snoitcelloC.litu.avaj tropmi
+;syarrA.litu.avaj tropmi
+;shtaP.elif.oin.avaj tropmi
+;htaP.elif.oin.avaj tropmi
+;seliF.elif.oin.avaj tropmi
+;LRU.ten.avaj tropmi
+;noitpecxEOI.oi.avaj tropmi

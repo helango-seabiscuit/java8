@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 17 15:16:17 PST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0152-f185-1718-00000e623be8 
+on database directory /Users/helangovan/jcgProjects/Java_SE_8/OCP/zoo with class loader sun.misc.Launcher$AppClassLoader@78308db1 
+Loaded from file:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/helangovan/jcgProjects/Java_SE_8/OCP
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
